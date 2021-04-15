@@ -11,7 +11,7 @@ Given I am able to navigate onto the login page
 #When I Enter the username as "Admin"
 #And I Enrer the Password as "admin123"
 #And I Click on the Login button
-#Then I should see the username as "Welcome Paulette"
+#Then I should see the username as "Welcome Rishikesh"
  
 #Scenario: Login as linda.anderson
 #When I Enter the username as "Admin"
@@ -28,8 +28,8 @@ Then I should see the username as "<LoginName>"
 
 Examples:
 |username|password|LoginName|
-|Admin	 |admin123|Welcome Paul|
-|Admin	 |admin123|Welcome Paul|
+|Admin	 |admin123|Welcome Rishikesh|
+|Admin	 |admin123|Welcome Rishikesh|
 
 @InvalidLogin
 Scenario: Login with Negative data

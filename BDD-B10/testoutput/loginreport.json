@@ -11,7 +11,7 @@
         "steps": [
           {
             "result": {
-              "duration": 6659426100,
+              "duration": 6052098200,
               "status": "passed"
             },
             "line": 8,
@@ -24,7 +24,7 @@
         ]
       },
       {
-        "start_timestamp": "2021-04-15T04:58:18.356Z",
+        "start_timestamp": "2021-04-15T14:50:58.048Z",
         "line": 31,
         "name": "Test Login with different data",
         "description": "",
@@ -34,7 +34,7 @@
         "steps": [
           {
             "result": {
-              "duration": 150597800,
+              "duration": 108721000,
               "status": "passed"
             },
             "line": 24,
@@ -52,7 +52,7 @@
           },
           {
             "result": {
-              "duration": 112698500,
+              "duration": 70811400,
               "status": "passed"
             },
             "line": 25,
@@ -70,7 +70,7 @@
           },
           {
             "result": {
-              "duration": 4232787500,
+              "duration": 3679062100,
               "status": "passed"
             },
             "line": 26,
@@ -82,15 +82,15 @@
           },
           {
             "result": {
-              "duration": 3148715400,
+              "duration": 3260584000,
               "status": "passed"
             },
             "line": 27,
-            "name": "I should see the username as \"Welcome Paul\"",
+            "name": "I should see the username as \"Welcome Rishikesh\"",
             "match": {
               "arguments": [
                 {
-                  "val": "\"Welcome Paul\"",
+                  "val": "\"Welcome Rishikesh\"",
                   "offset": 29
                 }
               ],
@@ -114,7 +114,7 @@
         "steps": [
           {
             "result": {
-              "duration": 5888291700,
+              "duration": 5873022600,
               "status": "passed"
             },
             "line": 8,
@@ -127,7 +127,7 @@
         ]
       },
       {
-        "start_timestamp": "2021-04-15T04:58:32.777Z",
+        "start_timestamp": "2021-04-15T14:51:11.317Z",
         "line": 32,
         "name": "Test Login with different data",
         "description": "",
@@ -137,7 +137,7 @@
         "steps": [
           {
             "result": {
-              "duration": 130649700,
+              "duration": 99732900,
               "status": "passed"
             },
             "line": 24,
@@ -155,7 +155,7 @@
           },
           {
             "result": {
-              "duration": 99734500,
+              "duration": 80783900,
               "status": "passed"
             },
             "line": 25,
@@ -173,7 +173,7 @@
           },
           {
             "result": {
-              "duration": 4007200500,
+              "duration": 3550053200,
               "status": "passed"
             },
             "line": 26,
@@ -185,15 +185,15 @@
           },
           {
             "result": {
-              "duration": 3190290400,
+              "duration": 3226900300,
               "status": "passed"
             },
             "line": 27,
-            "name": "I should see the username as \"Welcome Paul\"",
+            "name": "I should see the username as \"Welcome Rishikesh\"",
             "match": {
               "arguments": [
                 {
-                  "val": "\"Welcome Paul\"",
+                  "val": "\"Welcome Rishikesh\"",
                   "offset": 29
                 }
               ],
@@ -217,7 +217,7 @@
         "steps": [
           {
             "result": {
-              "duration": 5266780100,
+              "duration": 7904704700,
               "status": "passed"
             },
             "line": 8,
@@ -230,7 +230,7 @@
         ]
       },
       {
-        "start_timestamp": "2021-04-15T04:58:46.112Z",
+        "start_timestamp": "2021-04-15T14:51:24.162Z",
         "line": 35,
         "name": "Login with Negative data",
         "description": "",
@@ -240,7 +240,7 @@
         "steps": [
           {
             "result": {
-              "duration": 114694700,
+              "duration": 131633900,
               "status": "passed"
             },
             "line": 36,
@@ -258,7 +258,7 @@
           },
           {
             "result": {
-              "duration": 77790200,
+              "duration": 97652600,
               "status": "passed"
             },
             "line": 37,
@@ -276,7 +276,7 @@
           },
           {
             "result": {
-              "duration": 869862900,
+              "duration": 1003872800,
               "status": "passed"
             },
             "line": 38,
@@ -288,7 +288,7 @@
           },
           {
             "result": {
-              "duration": 188210600,
+              "duration": 200464600,
               "status": "passed"
             },
             "line": 39,
